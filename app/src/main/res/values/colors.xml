@@ -1,0 +1,13 @@
+<resources>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="awaited_yellow">#FFEB3B</color> <!-- Yellow tone -->
+    <color name="failed_red">#FFCDD2</color> <!-- Light Red -->
+    <color name="light_green">#C8E6C9</color> <!-- Light Green -->
+    <color name="mid_green">#81C784</color> <!-- Mid Green -->
+    <color name="dark_green">#388E3C</color> <!-- Dark Green -->
+    <color name="denied_red">#D32F2F</color> <!-- RED -->
+</resources>
